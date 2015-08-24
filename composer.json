@@ -1,5 +1,5 @@
 {
-    "name": "kriansa/openboleto",
+    "name": "wgrafael/openboleto",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario"],
